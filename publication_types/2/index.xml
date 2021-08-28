@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Caroline Ceribeli</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Caroline Ceribeli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effects of dietary inclusion of yerba mate (Ilex paraguariensis) extract on lamb muscle metabolomics and physicochemical properties in meat</title>
+      <link>/publication/lamb_muscle/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lamb_muscle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative untargeted metabolome analysis of ruminal fluid and feces of Nelore steers (Bos indicus)</title>
+      <link>/publication/ruminal/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ruminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How coupled are capillary electrophoresis and mass spectrometry?</title>
+      <link>/publication/ce_ms/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ce_ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mate as Dietary Supplement for Broiler Chickens: Effect on the Metabolic Profile and Redox Chemistry of Meat</title>
+      <link>/publication/mate/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divulgando Ciências para Estudantes do Nível Fundamental: Projeto de Extensão em Microbiologia (in Portuguese)</title>
+      <link>/publication/divulgando/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/divulgando/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
