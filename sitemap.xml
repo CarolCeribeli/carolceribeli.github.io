@@ -4,7 +4,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+      <lastmod>2023-06-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,24 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+      <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/kinetics/</loc>
+      <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2023-06-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -23,15 +40,6 @@
     
       <loc>/publication/tecnology_comparisons/</loc>
       <lastmod>2023-02-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2023-02-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
